@@ -1,0 +1,191 @@
+#sampledoc{
+    margin-left: 480px;
+    font-size: 11px;
+    border-radius: 5px;
+    padding: 10px 30px;
+    color: darkgreen;
+    background-color: white;
+    border:none;
+    
+}
+#import{
+    font-size: 11px;
+    border-radius: 5px;
+    padding: 10px 30px;
+    color: darkgreen;
+    background-color: white;
+    margin-left: 10px;
+    border:none;
+}
+#add{
+    font-size: 11px;
+    border-radius: 5px;
+    padding: 10px 30px;
+    background-color: green;
+    color: white;
+    margin-left: 10px;
+    border:none;
+}
+
+
+#firstdiv{
+    background-color: #f1f8ff ;
+    width:80%;
+    float:right;
+    margin-right: 10px;
+    height: 700px;
+    margin-top: 5px;
+}
+
+
+
+
+#firstdiv input{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+
+#seconddiv{
+    display: flex;
+    flex-direction: column;
+    width: 17%;
+    height: 820px;
+    background-color: #fcfcfc;
+    
+}
+#table{
+    width: 95%;
+    margin-left: 30px;
+    background-color: #fcfcfc;
+    margin-top: 10px;
+
+}
+
+
+#table td{
+    padding: 0px 3px 0px 2px;
+    text-align: center;
+    vertical-align: center;
+}
+#table td button{
+   border-radius: 10px;
+   background-color: white;
+}
+
+
+#table th{
+    padding: 5px 5px;
+    text-align: center;
+    
+}
+
+
+#seconddiv button{
+    background-color: #ff4d00;
+    padding: 5px 20px;
+    width: 90%;
+    border-radius: 5px;
+    margin-left: 5px;
+    color: white;
+    border:none;
+}
+
+#seconddiv h3{
+    margin-left: 15px;
+    margin-top: 30px;
+}
+#seconddiv h1{
+    margin-top:10px;
+}
+#seconddiv img{
+    width: 250px;
+    height: 150px;
+    top:15px;
+}
+
+
+.full-div{
+    width:100%;
+    background-color: black;
+    height:100%;
+    position:absolute;
+    opacity:0.8;
+    top:0px;
+    left:0px;
+    z-index:1;
+    display:none;
+}
+.inputbox{
+    background-color:white;
+    width:32%;
+    padding:30px 30px;
+    border-radius:5px;
+    position:absolute;
+    top:30%;
+    left:35%;
+    z-index:2;
+    display:none;
+    opacity: 1;
+}
+.inputbox input{
+   
+   
+   width:40%;
+   margin:2px;
+   padding:5px;
+   
+   font-size:10px;
+
+}
+.inputbox button{
+    float: right;
+    background-color:white;
+    color:darkgreen;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:20px;
+    padding-right:20px;
+    border-radius:5%;
+    
+    font-size:15px;
+    margin-top:10px;
+    margin-left: 5px;
+}
+.import-div{
+    width:100%;
+    background-color: black;
+    height:100%;
+    position:absolute;
+    opacity:0.8;
+    top:0px;
+    left:0px;
+    z-index:1;
+    display:none;
+}
+.importbox{
+    background-color:white;
+    width:22%;
+    padding:30px 30px;
+    border-radius:5px;
+    position:absolute;
+    top:30%;
+    left:35%;
+    z-index:2;
+    display:none;
+    opacity: 1;
+}
+.importbox button{
+    float: right;
+    background-color:white;
+    color:darkgreen;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:20px;
+    padding-right:20px;
+    border-radius:5%;
+    
+    font-size:15px;
+    margin-top:10px;
+    margin-left: 5px;
+}
